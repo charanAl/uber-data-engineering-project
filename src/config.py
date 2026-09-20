@@ -14,3 +14,4 @@ DATASET_GOLD = "uber_gold"
 RAW_TABLE = "uber_raw"
 
 CLEAN_TABLE = "uber_clean"
+# configiration
